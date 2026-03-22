@@ -1,3 +1,5 @@
+// Favorite Things
+
 let favoriteColor = "blue";
 let favoriteFood = "jollof rice";
 let favoriteSport = "football";
